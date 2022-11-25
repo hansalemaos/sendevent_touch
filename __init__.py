@@ -410,7 +410,7 @@ class SendEventTouch:
             self.struct_folder = "struct"
         else:
             self.struct_folder = "struct real"
-
+        self._create_sd_card_path()
         self.width = 0
         self.height = 0
 
