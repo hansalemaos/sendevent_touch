@@ -1,0 +1,6 @@
+keyboard
+numpy
+pandas
+psutil
+regex
+touchtouch
