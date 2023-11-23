@@ -1,3 +1,6 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
 # Send touch/longtouch events to BlueStacks/Android
 
 
